@@ -1,5 +1,6 @@
 {
   "name": "Ruby-on-Rails-Twitter-Clone",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "editor.formatOnSave": true,
 }
