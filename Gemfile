@@ -58,7 +58,7 @@ group :development do
   gem 'better_errors', '~> 2.5', '>= 2.5.1'
   gem "binding_of_caller"
   gem 'gravatar_image_tag', '~> 1.2'
-  gem 'devise', '~> 4.6', '>= 4.6.2'
+  gem 'devise', '~> 4.7'
 end
 
 group :test do
